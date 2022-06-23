@@ -11,6 +11,7 @@ Changes the working directory to user's home directory
 ## 3-listfiles
 List files in long format
 
-
+## 4-listmorefiles
+List directory contents in long format including hidden files
 
 
