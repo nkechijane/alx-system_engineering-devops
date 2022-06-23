@@ -17,4 +17,7 @@ List directory contents in long format including hidden files
 ## 5-listfilesdigitonly
 List files in long format with user and group id displayed numerically
 
+## 6-firstdirectory
+Crates my_first_directory in the tmp directory
+
 
