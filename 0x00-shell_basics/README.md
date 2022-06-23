@@ -51,4 +51,7 @@ Creates script that deletes all files in the current working directory that end 
 
 ##102-tree
 Create a script that creates the directories welcome/ wel ome/to/ welcome/to/school
+## 103-commas
+Writes a commamd that lists all tjhe files and dierectories of the crurrent diectory. separated by commas
+
 
