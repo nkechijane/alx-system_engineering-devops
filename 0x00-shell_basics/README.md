@@ -20,4 +20,7 @@ List files in long format with user and group id displayed numerically
 ## 6-firstdirectory
 Crates my_first_directory in the tmp directory
 
+## 7-movethatfile
+Moved betty from tmp to /tmp/my_first_directory
+
 
