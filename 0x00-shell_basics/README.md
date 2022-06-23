@@ -38,3 +38,5 @@ list files with period character and hidden and parent of the working directory 
 ## 12-file+type
 Prints type of file named iama file which is inside tm directory
 
+## 13-symbolic_link
+Crate a symbolic link to /bin/ls
