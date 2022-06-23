@@ -40,3 +40,6 @@ Prints type of file named iama file which is inside tm directory
 
 ## 13-symbolic_link
 Crate a symbolic link to /bin/ls
+
+## copy_html
+Copies all html file from current working directory to parent of working directory
