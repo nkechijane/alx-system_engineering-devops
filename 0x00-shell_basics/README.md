@@ -23,4 +23,7 @@ Crates my_first_directory in the tmp directory
 ## 7-movethatfile
 Moved betty from tmp to /tmp/my_first_directory
 
+## 8-firstdelete
+Delete the betty file from /tmp/my_first_directory
+
 
