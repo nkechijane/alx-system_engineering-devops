@@ -47,4 +47,8 @@ Copies all html file from current working directory to parent of working directo
 ## 100-lets_move
 Creates a script that moves all files beginning with an upper case letter to the directory /tmp/u
 ## 101-clean_emacs
-Creates script that deletes all files in the current working directory that end with the character ~
+Creates script that deletes all files in the current working directory that end with the character 
+
+##102-tree
+Create a script that creates the directories welcome/ wel ome/to/ welcome/to/school
+
