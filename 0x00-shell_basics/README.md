@@ -14,4 +14,7 @@ List files in long format
 ## 4-listmorefiles
 List directory contents in long format including hidden files
 
+## 5-listfilesdigitonly
+List files in long format with user and group id displayed numerically
+
 
