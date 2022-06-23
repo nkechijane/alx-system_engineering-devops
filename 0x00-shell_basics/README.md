@@ -54,4 +54,5 @@ Create a script that creates the directories welcome/ wel ome/to/ welcome/to/sch
 ## 103-commas
 Writes a commamd that lists all tjhe files and dierectories of the crurrent diectory. separated by commas
 
-
+## School.mgc
+Creates a school.m that can be used with tehe command
