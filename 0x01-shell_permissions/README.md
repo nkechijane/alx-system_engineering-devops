@@ -23,3 +23,6 @@ Adds execute permission to the owner and the group owner and read permission to 
 
 ## 7-everybody
 Adds execution permission for owner, group and other users to the file hello
+
+## 8-James_Bond
+Sets permission to No permisiso at all for owner, none for group and all permission for other users
