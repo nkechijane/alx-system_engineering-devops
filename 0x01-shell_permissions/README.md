@@ -15,4 +15,5 @@ Change owner of file hello to betty
 ## 4-empty
 Creates an empty file called hello
 
-##
+## 5-execute
+Adds execute permission to hello 
