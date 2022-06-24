@@ -9,4 +9,7 @@ Prints the effective username of the current user
 ## 2-groups
 Prints all the groups the current user is part of
 
+## 3-new_owner
+Change owner of file hello to betty
+
 ##
